@@ -1,0 +1,2 @@
+C:\Users\2261395\AppData\Roaming\Code\User\settings.json
+C:\Users\2261395\AppData\Roaming\Code\User\keybindings.json
