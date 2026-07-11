@@ -1,0 +1,19 @@
+{
+    "editor.lineNumbers": "relative",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                ";", ";"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "chat.commandCenter.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "compact",
+    "workbench.colorTheme": "Dark Modern"
+}
